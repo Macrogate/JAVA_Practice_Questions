@@ -1,6 +1,6 @@
 // Question 9
 // CP - Create a program to convert the distance of 10.8 kilometers to miles.
-// Hint => 1 km = 1.6 miles
+// Hint => 1 miles = 1.6 km
 // I/P => NONE
 // O/P => The distance ___ km in miles is _
 
