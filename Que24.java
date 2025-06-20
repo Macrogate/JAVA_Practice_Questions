@@ -16,6 +16,7 @@ public class Que24 {
         int bonus = sc.nextInt();
         int totalIncome = salary + bonus;
         System.out.println("The salary is INR " + salary+ " and the bonus id INR " + bonus + ". Hence total income is " + totalIncome);
+        sc.close();
     }
     
 }

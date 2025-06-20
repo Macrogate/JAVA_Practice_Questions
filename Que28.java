@@ -15,6 +15,7 @@ public class Que28 {
 
         int SI = (principle * rate * time) / 100;
         System.out.println("The simple interest is " + SI + " for principle " + principle + " for rate " + rate + " and time " + time);
+        sc.close();
     }
     
 }
