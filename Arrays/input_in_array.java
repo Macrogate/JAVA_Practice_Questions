@@ -18,7 +18,7 @@ public class input_in_array {
         //  find percentages of marks
 
         int percentage = (marks[0] + marks[1] + marks[2]) / 2;
-        System.out.println("percentage of marks is " + percentage);
+        System.out.println("percentage of marks is " + percentage + "%");
     }
     
 }
