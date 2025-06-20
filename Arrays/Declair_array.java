@@ -4,6 +4,9 @@ package Arrays;
 
 public class Declair_array {
     public static void main(String [] args){
+
+        // delcaration array
+        
         int [] arr = new int [5];
         int numbers [] = {1, 2,  3};
         int morenumbers [] = {4, 5, 6};
