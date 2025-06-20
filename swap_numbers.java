@@ -10,7 +10,7 @@
 
 
 import java.util.Scanner;
-public class Que19 {
+public class swap_numbers {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();

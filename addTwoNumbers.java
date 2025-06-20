@@ -1,7 +1,7 @@
 // add two numbers in Java
 
 import java.util.Scanner;
-public class Que1 {
+public class addTwoNumbers {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

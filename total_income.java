@@ -9,7 +9,7 @@
 // O/P => The salary is INR ___ and the bonus is INR ___. Hence Total Income is INR___
 
 import java.util.Scanner;
-public class Que24 {
+public class total_income {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int salary = sc.nextInt();

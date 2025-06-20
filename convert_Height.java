@@ -5,7 +5,7 @@
 // O/P => Your Height in cm is ___ while in feet is ___ and inches is _
 
 import java.util.Scanner;
-public class Que8 {
+public class convert_Height {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int heightInCm = sc.nextInt();
@@ -13,6 +13,7 @@ public class Que8 {
         int feet = totalInches / 12;
         int inches = totalInches % 12;
         System.out.println("Your Height in cm is " + heightInCm + " while in feet is " + feet + " and inches is "+ inches);
+        sc.close();
     }
     
 }

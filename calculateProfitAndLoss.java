@@ -8,7 +8,7 @@
 
 
 import java.util.Scanner;
-public class Que3 {
+public class calculateProfitAndLoss {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int  costPrise = 129;
@@ -17,6 +17,7 @@ public class Que3 {
         int profit = sellingPrise - costPrise;
         double profitPercent = (profit) / costPrise * 100;
         System.out.println("The cost price is INR " + costPrise + " and the selling price is INR " + sellingPrise + " and the Profit Percentageis " + profitPercent);
+        sc.close();
         
 
     }

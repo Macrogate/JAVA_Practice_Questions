@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Que30 {
+public class fever_or_not {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 

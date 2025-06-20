@@ -6,7 +6,7 @@
 // c.	If the sum is equal to 180, print ”The given angles are internal angles of a triangle” else print They are not
 
 import java.util.Scanner;
-public class Que2{
+public class sumOfAngles{
     public static void main(String[]  args){
         Scanner sc = new Scanner(System.in);
 
@@ -19,6 +19,7 @@ public class Que2{
             System.out.println("The Given Angles are Internal angles of a triangle");
         }else{
             System.out.println("they are not the anles of a trianngle");
+            sc.close();
         }
 
 

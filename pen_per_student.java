@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class que29 {
+public class pen_per_student {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int totalPens = sc.nextInt();

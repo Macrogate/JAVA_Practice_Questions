@@ -4,12 +4,13 @@
 // O/P => Harry's age in 2024 is ___
 
 import java.util.Scanner;
-public class Que6 {
+public class harry_age {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int birthYear = sc.nextInt();
         int currYear = sc.nextInt();
         int age = currYear - birthYear;
         System.out.println("Harry's age in " + currYear + " is " + age);
+        sc.close();
     }
 }

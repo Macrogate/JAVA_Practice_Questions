@@ -5,7 +5,7 @@
 // O/P => The distance ___ km in miles is _
 
 import java.util.Scanner;
-public class Que9 {
+public class convert_km_to_miles {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         double distanceInKm = sc.nextDouble();

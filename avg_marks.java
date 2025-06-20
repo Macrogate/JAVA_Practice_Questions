@@ -4,7 +4,7 @@
 // O/P => Sam’s average mark in PCM is __
 
 
-public class Que7 {
+public class avg_marks {
     public static void main(String [] args){
         int mathsMarks = 94;
         int physicsMarks = 95;

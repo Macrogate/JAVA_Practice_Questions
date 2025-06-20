@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Que17 {
+public class purchase_prize {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int unitPrice = sc.nextInt();

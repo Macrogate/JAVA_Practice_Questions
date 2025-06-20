@@ -8,7 +8,7 @@
 
 
 import java.util.Scanner;
-public class Que26 {
+public class convert_celcius_to_fahrenheit {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int tempInCelcius = sc.nextInt();

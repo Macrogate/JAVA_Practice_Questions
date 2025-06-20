@@ -6,7 +6,7 @@
 
 
 import java.util.Scanner;
-public class Que13 {
+public class area_of_triangle {
     public static void main(String [] args){
         Scanner sc = new Scanner (System.in);
         int base = sc.nextInt();

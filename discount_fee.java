@@ -7,7 +7,7 @@
 
 
 import java.util.Scanner;
-public class Que4 {
+public class discount_fee {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int fee = sc.nextInt();
@@ -15,6 +15,7 @@ public class Que4 {
         int discount = (fee * discountPercent) / 100;
         int fualFee = fee - discount;
         System.out.println("The discount amount is INR " + discount + " and final discounted fee is INR " + fualFee);
+        sc.close();
     }
     
 }

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Que31 {
+public class fizzBuzz {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
@@ -12,6 +12,7 @@ public class Que31 {
             System.out.println("Fizz");
         }else{
             System.out.println(number);
+            sc.close();
         }
     }
 }

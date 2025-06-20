@@ -6,7 +6,7 @@
 
 
 import java.util.Scanner;
-public class Que23 {
+public class pounds_to_kilograms {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         double weightInPound = sc.nextDouble();

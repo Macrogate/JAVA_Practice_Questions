@@ -6,12 +6,13 @@
 
 
 import java.util.Scanner;
-public class Que11 {
+public class find_side_of_square {
     public static void main(String [] args){
         Scanner sc= new Scanner (System.in);
         int perimeter = sc.nextInt();
         int side = perimeter / 4;
         System.out.println("The Length of the side is " + side + " Whose perimeteer is " + perimeter);
+        sc.close();
 
     }
     

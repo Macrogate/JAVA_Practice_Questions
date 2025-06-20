@@ -6,7 +6,7 @@
 
 
 import java.util.Scanner;
-public class Que15 {
+public class quotient_remainder {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
         int number1 = sc.nextInt();
