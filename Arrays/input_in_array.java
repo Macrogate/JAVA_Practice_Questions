@@ -19,6 +19,10 @@ public class input_in_array {
 
         int percentage = (marks[0] + marks[1] + marks[2]) / 2;
         System.out.println("percentage of marks is " + percentage + "%");
+
+        // length of an array
+
+        System.out.println("length of an array is " + marks.length);
     }
     
 }
